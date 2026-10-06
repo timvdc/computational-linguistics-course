@@ -22,3 +22,4 @@ Solutions are added to the `solutions` folder after each practical session.
 
 | Session | Notebook | Colab |
 |---|---|---|
+| 1 | [practical 1 solutions](solutions/compling_practical1_2627_solutions.ipynb) | [open in Colab](https://colab.research.google.com/github/timvdc/computational-linguistics-course/blob/main/solutions/compling_practical1_2627_solutions.ipynb) |
